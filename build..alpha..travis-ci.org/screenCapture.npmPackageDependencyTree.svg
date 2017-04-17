@@ -75,7 +75,7 @@
 <tspan x="10" y="1162">  │ │ │ │ └── fs-exists-sync@0.1.0 </tspan>
 <tspan x="10" y="1178">  │ │ │ ├─┬ micromatch@2.3.11 </tspan>
 <tspan x="10" y="1194">  │ │ │ │ ├─┬ arr-diff@2.0.0 </tspan>
-<tspan x="10" y="1210">  │ │ │ │ │ └── arr-flatten@1.0.1 </tspan>
+<tspan x="10" y="1210">  │ │ │ │ │ └── arr-flatten@1.0.3 </tspan>
 <tspan x="10" y="1226">  │ │ │ │ ├── array-unique@0.2.1 </tspan>
 <tspan x="10" y="1242">  │ │ │ │ ├─┬ braces@1.8.5 </tspan>
 <tspan x="10" y="1258">  │ │ │ │ │ ├─┬ expand-range@1.8.2 </tspan>

@@ -1,4 +1,7 @@
-# test coverage for  [gulp-nodemon (v2.2.1)](https://github.com/JacksonGariety/gulp-nodemon)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-nodemon.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-nodemon) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-nodemon.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-nodemon)
+# npmtest-gulp-nodemon
+
+#### test coverage for  [gulp-nodemon (v2.2.1)](https://github.com/JacksonGariety/gulp-nodemon)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-nodemon.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-nodemon) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-nodemon.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-nodemon)
+
 #### it's gulp + nodemon + convenience
 
 [![NPM](https://nodei.co/npm/gulp-nodemon.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/gulp-nodemon)
